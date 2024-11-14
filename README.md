@@ -6,7 +6,7 @@ Este repositorio esta hecho con el proposito de poder praticar el uso de github 
 
 Para poder utilizar este repositorio se tiene que escribir el siguiente comando
 
-    Hola
+    git clone https://github.com/MLuisaGP/4_readme_test.git
 
 Para correr el proyecto hay que:
 1. navegar al archivo
