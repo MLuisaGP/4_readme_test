@@ -1,6 +1,6 @@
 # README_TEST
 
-Este repositorio esta hecho con el proposito de poder praticar el uso de github y de el archivo README.md y empezar a realizar estructura organizada
+Este repositorio esta hecho con el proposito de poder praticar el uso de github page y de el archivo README.md y empezar a realizar estructura organizada
 
 ## Instalación
 
