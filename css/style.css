@@ -41,13 +41,15 @@ fieldset{
 form{
     display: flex;
     flex-direction: column;
+    padding: 2rem;
 }
 
 
 input{
     border: none;
     outline: none;
-
+    border-radius: 3px;
+    padding: .5rem;
 }
 footer{
     display: flex;
@@ -56,4 +58,7 @@ footer{
 }
 .logo img{
     width: 4rem;
+}
+.input__grupo{
+    flex-direction: row;
 }
